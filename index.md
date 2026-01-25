@@ -30,6 +30,8 @@ Many people look at this situation and see no path forward. They assume that if 
 
 Political scientist [Erica Chenoweth](https://www.ericachenoweth.com/), working with [Maria Stephan](https://en.wikipedia.org/wiki/Maria_Stephan), analyzed every major campaign for regime change from 1900 to 2006: 323 campaigns in total, both violent and nonviolent. Their findings, published in [*Why Civil Resistance Works*](https://www.jstor.org/stable/10.7312/chen15682), upend conventional assumptions about power.
 
+![Why Civil Resistance Works, by Erica Chenoweth and Maria Stephan](why_civil_resistance_works.jpg)
+
 Nonviolent campaigns succeeded 53% of the time. Violent campaigns succeeded 26% of the time. Nonviolent movements attracted four times as many participants on average. Countries that underwent nonviolent transitions were ten times more likely to establish lasting democracies. And most strikingly: no government in their dataset withstood a sustained challenge from 3.5% of its population.
 
 Why does nonviolent resistance work? The mechanism is not moral appeal. It is not that oppressors are shamed into relenting. The mechanism is *defection*. Autocracies depend on the compliance of bureaucrats, judges, prosecutors, military officers, business leaders, and local officials. When enough of these people refuse to carry out orders, or when the cost of their compliance becomes too high, the machinery seizes.
