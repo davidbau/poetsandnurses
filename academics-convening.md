@@ -52,7 +52,7 @@ The tech angle matters because:
 
 Universities should also coordinate with each other. The American Association of Universities (AAU), the Association of American Colleges and Universities (AAC&U), and discipline-specific organizations provide existing networks.
 
-The question to pose: What are universities collectively prepared to do if constitutional democracy is suspended? (See: [The Winter 2027 Question](winter-2027.md))
+The question to pose: What are universities collectively prepared to do if constitutional democracy is suspended? (See: [The Winter 2027 Commitment](winter-2027.md))
 
 ---
 

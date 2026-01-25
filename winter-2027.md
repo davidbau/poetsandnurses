@@ -1,4 +1,4 @@
-# The Winter 2027 Question
+# The Winter 2027 Commitment
 
 *A Framework for Academic Collective Action in Defense of Democracy*
 
