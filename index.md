@@ -108,6 +108,8 @@ If you're in academia, the stakes are equally high. [Universities are being targ
 
 #### V. Building the Infrastructure
 
+![Organizing: meetings, rallies, virtual coordination, canvassing](organizing_enhanced.jpg)
+
 The three leverage points require infrastructure to activate. Organizations exist that are building this infrastructure. Your task is to find them, join them, strengthen them.
 
 **For State Capacity**
