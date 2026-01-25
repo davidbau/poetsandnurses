@@ -58,6 +58,8 @@ And we should be clear-eyed about what comes after certification. The administra
 
 The dissolution of midterm results is the Rubicon we must not cross. If the administration successfully interferes with the election and faces no consequences, or if it loses but refuses to accept the results, the constitutional order is over. We will not vote our way out of what follows.
 
+![Let My People Vote](let_my_people_vote.jpg)
+
 Protection of the midterms must be our highest priority. Everything else, every other issue, is secondary to preserving the mechanism by which power can be transferred and accountability restored.
 
 ---
