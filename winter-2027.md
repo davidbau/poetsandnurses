@@ -2,25 +2,37 @@
 
 *A Framework for Academic Collective Action in Defense of Democracy*
 
----
-
-If the 2026 midterm elections are stolen — if results are overturned, certification is blocked, or a new Congress is prevented from being seated — what will universities do?
-
-This document proposes a specific answer: **cancel the Winter 2027 semester and mobilize students and faculty to restore constitutional democracy.**
-
-This is not a prediction. It is a pre-commitment: a decision made now, announced publicly, so that everyone — including the administration — knows the consequences of election subversion before it happens.
+**January 2026**
 
 ---
 
-#### Why This Matters
+#### The Situation
 
-The research on nonviolent resistance is clear: sustained mass mobilization is what stops authoritarian consolidation. The 3.5% threshold identified by [Erica Chenoweth](https://carrcenter.hks.harvard.edu/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) — roughly 11 million Americans in sustained engagement — requires people who can show up not just for a weekend march but for weeks and months.
+The 2026 midterm elections are the decisive moment for American democracy. A hostile Congress would have subpoena power, the ability to investigate, and the capacity to restrain executive action. The administration knows this. The [Brennan Center has documented](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) an unprecedented campaign to undermine the election: gutting election security infrastructure, installing election deniers in key positions, demanding voter data from states, and targeting mail-in voting. Election officials are already gaming out scenarios involving federal agents at polling places, emergency declarations, and post-election certification interference.
 
-Most Americans cannot do this. They have jobs, childcare, rent. They cannot risk being fired or evicted.
+If the administration successfully interferes with the election and faces no consequences, or if it loses but refuses to accept the results, the constitutional order is over.
 
-But students can. And faculty with tenure can. A cancelled semester frees millions of people for sustained civic engagement precisely when it matters most.
+#### The Problem
+
+The research on how authoritarian consolidation is stopped points to sustained mass mobilization. Political scientist [Erica Chenoweth](https://carrcenter.hks.harvard.edu/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) found that no government in her dataset withstood a sustained challenge from 3.5% of its population — roughly 11 million Americans. But this is not 11 million people attending a single march. It is 11 million people maintaining continuous, organized pressure over weeks and months.
+
+Most Americans cannot do this. They have jobs they cannot leave, childcare they cannot abandon, rent they cannot miss. They cannot risk being fired or evicted. The Women's March in 2017 brought out 4 to 5 million on a single day, and then most went home. Weekend protests do not stop authoritarian consolidation.
+
+#### The Proposal
+
+This document proposes that universities commit, now and publicly, to the following: **If the 2026 midterm elections are stolen, cancel the Winter 2027 semester and mobilize students and faculty to restore constitutional democracy.**
+
+This is not a prediction that the election will be stolen. It is a pre-commitment — a decision made now, announced publicly, so that everyone, including the administration, knows the consequences of election subversion before it happens.
+
+#### Why Universities
+
+Students and tenured faculty are among the few populations in America who can sustain weeks of mobilization without losing their livelihoods. A cancelled semester frees millions of people for civic engagement precisely when it matters most. Students come from across the country; a cancelled semester at a university in Massachusetts frees students who can return to swing states, red states, and their home communities. This is national reach that no single local organization has.
 
 The economic impact is also significant. Tuition payments pause. Campus spending stops. Local economies that depend on universities feel it. Research partnerships are disrupted. The signal is unmistakable: this is a constitutional crisis, and normal life cannot continue until it is resolved.
+
+This commitment only works if multiple institutions make it together. A single university acting alone faces enormous pressure; fifty universities acting in concert create an unmistakable national response.
+
+The rest of this document provides a framework: what triggers the commitment, who decides, what students and faculty do during the mobilization, and how to build the coalition of committed institutions.
 
 ---
 
