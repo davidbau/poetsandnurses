@@ -10,9 +10,7 @@
 
 Renée Good was a thirty-seven-year-old American citizen, a poet and mother of three, driving in her Minneapolis neighborhood on January 7, 2026, when an ICE agent shot her dead. Less than three weeks later, on January 24, Alex Pretti, also thirty-seven, an ICU nurse at the VA hospital who had dedicated his life to caring for veterans, was pepper-sprayed, wrestled to the ground by six federal agents, and killed while holding his cell phone aloft. Video evidence contradicts every element of the Department of Homeland Security's account. These were American citizens, killed by American law enforcement officers, in an American city that had explicitly asked these officers to leave.
 
-![ICE agents approach Renée Good's vehicle, January 7, 2026](renee_good.jpg)
-
-![Federal agents restrain Alex Pretti moments before his death, January 24, 2026](alex_pretti.jpg)
+![Left: ICE agents approach Renée Good's vehicle, January 7. Right: Federal agents restrain Alex Pretti, January 24.](minneapolis_killings.jpg)
 
 The outrage is real. Tens of thousands marched through Minneapolis in sub-zero temperatures the day before Pretti's death. Senators are demanding answers. Governor Walz has called the federal government's account ["nonsense... and lies"](https://www.npr.org/2026/01/25/nx-s1-5687361/minneapolis-shooting-latest-alex-pretti). The state has [filed lawsuits](https://www.minneapolismn.gov/news/2026/january/ag-lawsuit/) to halt the federal operation and to [preserve evidence](https://www.foxnews.com/politics/judge-blocks-trump-admin-destroying-altering-evidence-deadly-minneapolis-shooting) in the killings. But here is the truth we must confront: outrage alone is not effective. There is a gap, a vast and terrible gap, between what we feel and what we can achieve through normal political channels.
 
@@ -30,7 +28,7 @@ Many people look at this situation and see no path forward. They assume that if 
 
 Political scientist [Erica Chenoweth](https://www.ericachenoweth.com/), working with [Maria Stephan](https://en.wikipedia.org/wiki/Maria_Stephan), analyzed every major campaign for regime change from 1900 to 2006: 323 campaigns in total, both violent and nonviolent. Their findings, published in [*Why Civil Resistance Works*](https://www.jstor.org/stable/10.7312/chen15682), upend conventional assumptions about power.
 
-![Why Civil Resistance Works, by Erica Chenoweth and Maria Stephan](why_civil_resistance_works.jpg)
+![Why Civil Resistance Works (Chenoweth & Stephan) and From Dictatorship to Democracy (Sharp)](resistance_books.jpg)
 
 Nonviolent campaigns succeeded 53% of the time. Violent campaigns succeeded 26% of the time. Nonviolent movements attracted four times as many participants on average. Countries that underwent nonviolent transitions were ten times more likely to establish lasting democracies. And most strikingly: no government in their dataset withstood a sustained challenge from 3.5% of its population.
 
