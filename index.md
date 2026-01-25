@@ -10,7 +10,7 @@
 
 Renée Good was a thirty-seven-year-old American citizen, a poet and mother of three, driving in her Minneapolis neighborhood on January 7, 2026, when an ICE agent shot her dead. Less than three weeks later, on January 24, Alex Pretti, also thirty-seven, an ICU nurse at the VA hospital who had dedicated his life to caring for veterans, was pepper-sprayed, wrestled to the ground by six federal agents, and killed while holding his cell phone aloft. Video evidence contradicts every element of the Department of Homeland Security's account. These were American citizens, killed by American law enforcement officers, in an American city that had explicitly asked these officers to leave.
 
-![Left: ICE agents approach Renée Good's vehicle, January 7. Right: Federal agents restrain Alex Pretti, January 24.](minneapolis_killings.jpg)
+![Left: ICE agents approach Renée Good's vehicle, January 7. Right: Federal agents restrain Alex Pretti, January 24.](images/minneapolis_killings.jpg)
 
 The outrage is real. Tens of thousands marched through Minneapolis in sub-zero temperatures the day before Pretti's death. Senators are demanding answers. Governor Walz has called the federal government's account ["nonsense... and lies"](https://www.npr.org/2026/01/25/nx-s1-5687361/minneapolis-shooting-latest-alex-pretti). The state has [filed lawsuits](https://www.minneapolismn.gov/news/2026/january/ag-lawsuit/) to halt the federal operation and to [preserve evidence](https://www.foxnews.com/politics/judge-blocks-trump-admin-destroying-altering-evidence-deadly-minneapolis-shooting) in the killings. But here is the truth we must confront: outrage alone is not effective. There is a gap, a vast and terrible gap, between what we feel and what we can achieve through normal political channels.
 
@@ -28,11 +28,11 @@ Many people look at this situation and see no path forward. They assume that if 
 
 Political scientist [Erica Chenoweth](https://www.ericachenoweth.com/), working with [Maria Stephan](https://en.wikipedia.org/wiki/Maria_Stephan), analyzed every major campaign for regime change from 1900 to 2006: 323 campaigns in total, both violent and nonviolent. Their findings, published in [*Why Civil Resistance Works*](https://www.jstor.org/stable/10.7312/chen15682), upend conventional assumptions about power.
 
-![Why Civil Resistance Works (Chenoweth & Stephan) and From Dictatorship to Democracy (Sharp)](resistance_books.jpg)
+![Why Civil Resistance Works (Chenoweth & Stephan) and From Dictatorship to Democracy (Sharp)](images/resistance_books.jpg)
 
 Nonviolent campaigns succeeded 53% of the time. Violent campaigns succeeded 26% of the time. Nonviolent movements attracted four times as many participants on average. Countries that underwent nonviolent transitions were ten times more likely to establish lasting democracies. And most strikingly: no government in their dataset withstood a sustained challenge from 3.5% of its population.
 
-Why does nonviolent resistance work? The mechanism is not moral appeal. It is not that oppressors are shamed into relenting. The mechanism is *defection*. Autocracies depend on the compliance of bureaucrats, judges, prosecutors, military officers, business leaders, and local officials. When enough of these people refuse to carry out orders, or when the cost of their compliance becomes too high, the machinery seizes.
+Why does nonviolent resistance work? The mechanism is **not moral appeal**. It is not that oppressors are shamed into relenting. The mechanism is *defection*. Autocracies depend on the compliance of bureaucrats, judges, prosecutors, military officers, business leaders, and local officials. When enough of these people refuse to carry out orders, or when the cost of their compliance becomes too high, the machinery seizes.
 
 This is the core insight of [Gene Sharp](https://en.wikipedia.org/wiki/Gene_Sharp), the political scientist who founded the [Albert Einstein Institution](https://www.aeinstein.org/) and spent six decades studying how dictatorships fall. Sharp's 1973 work *The Politics of Nonviolent Action* catalogued 198 methods of nonviolent resistance; his 1993 handbook [*From Dictatorship to Democracy*](https://www.aeinstein.org/free-resources/free-publications/english/) has been translated into more than 30 languages and used by resistance movements from Serbia to Egypt. The *New York Times* called him "the Clausewitz of nonviolent warfare." Sharp's research showed that power is not monolithic: every regime depends on the cooperation of thousands of people who can, under the right conditions, withdraw that cooperation.
 
@@ -44,7 +44,7 @@ In America, 3.5% means roughly 11 million people in sustained engagement. This i
 
 ---
 
-![Let My People Vote](let_my_people_vote.jpg)
+![Let My People Vote](images/let_my_people_vote.jpg)
 
 #### III. The 2026 Midterms: The Decisive Moment
 
@@ -68,7 +68,7 @@ Protection of the midterms must be our highest priority. Everything else, every 
 
 Given this analysis, three sources of leverage emerge: not as protest tactics, but as strategic chokepoints where organized resistance can impose costs high enough to change calculations.
 
-![State governmental capacity, mass mobilization, and economic leverage](three_leverage_points.jpg)
+![State governmental capacity, mass mobilization, and economic leverage](images/three_leverage_points.jpg)
 
 **1. State Governmental Capacity**
 
@@ -108,7 +108,7 @@ If you're in academia, the stakes are equally high. [Universities are being targ
 
 #### V. Building the Infrastructure
 
-![Organizing: meetings, rallies, virtual coordination, canvassing](organizing_enhanced.jpg)
+![Organizing: meetings, rallies, virtual coordination, canvassing](images/organizing_enhanced.jpg)
 
 The three leverage points require infrastructure to activate. Organizations exist that are building this infrastructure. Your task is to find them, join them, strengthen them.
 
