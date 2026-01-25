@@ -124,21 +124,7 @@ All three leverage points require technical capacity: secure communications, rap
 
 ---
 
-#### VI. The Poet, the Nurse, and the Programmer
-
-Every community has poets who can articulate why this matters, who can cut through the normalization and remind people what is at stake. Every community has nurses and teachers and caregivers who understand what it means to protect others, who show up when showing up is hard. And every community has people who can build systems, write code, analyze data, design the tools that coordination requires.
-
-The poets give us language. The nurses give us care. The programmers give us tools. All three are needed. But none of them are sufficient alone. What matters is organization: connecting these capacities to each other and to the strategic leverage points where they can impose costs.
-
-Renée Good was a poet. She won a prize for her poetry at Old Dominion University. She believed, as she wrote, that "there is kindness in the world and we need to do everything we can to find it where it resides and nurture it where it needs to grow." She was killed for being in the wrong place at the wrong time, driving in her own neighborhood.
-
-Alex Pretti was a nurse. He understood that caring for others sometimes requires risk. He went to Minneapolis's streets because he believed that bearing witness mattered, that showing up mattered, that his presence alongside his neighbors was itself a form of care. He was killed for it.
-
-Their deaths are outrages. But outrage must become organization, or it dissipates into grief.
-
----
-
-#### VII. Nine Months
+#### VI. Nine Months
 
 Here is what you can do in the next nine months:
 
