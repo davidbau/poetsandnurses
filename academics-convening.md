@@ -2,83 +2,169 @@
 
 *Building the Coalitions That Economic Leverage Requires*
 
+**January 2026**
+
 ---
+
+#### The Problem
 
 The main obstacle to economic leverage in defense of democracy is coordination. Individual businesses that resist federal overreach face retaliation; individual unions that strike alone absorb all the cost. The solution is collective commitment — but collective commitment requires someone to convene the conversation, build trust across sectors, and create the framework for binding agreements.
 
-Universities are uniquely positioned to play this role.
+Universities are uniquely positioned to play this role. They have legitimacy across political divides, existing convening infrastructure, intellectual resources, and relative insulation from retaliation. But "universities should convene" is not a plan. This document tries to be more specific: which institutions, what format, who should be in the room, what outputs to aim for, and what different people can do based on their position.
 
 ---
 
-#### Why Universities Can Convene
+#### Who Should Host
 
-**Legitimacy across divides.** Universities have relationships with business (through research partnerships, advisory boards, and alumni networks), with labor (through campus unions and workforce pipelines), and with faith communities (through chaplaincies, divinity schools, and community partnerships). A summit hosted by a university carries different weight than one hosted by a corporation, a union, or a political organization.
+Not every university can or should host a democracy defense convening. The right hosts have: convening credibility, relevant expertise, institutional independence, and leadership willing to act.
 
-**Existing infrastructure.** Universities already convene. They host conferences, policy summits, executive education programs, and cross-sector dialogues. The administrative capacity exists; it needs to be directed toward democratic defense.
+**Law schools with constitutional crisis expertise:**
 
-**Intellectual resources.** Law schools can provide constitutional analysis. Business schools can model economic scenarios. Policy schools can design coordination mechanisms. Political scientists can advise on strategy. This expertise should be in service of building the coalitions the moment requires.
+- **Harvard Law School** — Has convened high-profile summits (including on AI safety). Constitutional law faculty. Convening credibility. Would need faculty champions to push this.
+- **Yale Law School** — Strong constitutional law program. Smaller, possibly more nimble.
+- **Stanford Law School** — Proximity to tech, though that cuts both ways.
+- **Georgetown Law** — D.C. location, connections to election law practitioners, the [Institute for Constitutional Advocacy and Protection](https://www.law.georgetown.edu/icap/).
 
-**Relative insulation.** Tenured faculty have job protections most workers lack. Private universities have endowment cushions. Even public universities have some insulation through accreditation, state funding, and alumni support. This relative security creates an obligation to take risks others cannot.
+**Policy schools:**
 
----
+- **Harvard Kennedy School** — Convening infrastructure, connections to government. The [Ash Center](https://ash.harvard.edu/) focuses on democratic governance.
+- **Stanford HAI** — Tech-focused but has convened on societal implications. Would be natural for a tech-leadership-and-democracy convening specifically.
+- **Berkeley Goldman School** — Public policy focus, strong labor connections in the Bay Area.
 
-#### What Universities Should Convene
+**Centers with specific democracy focus:**
 
-**1. Regional democracy defense summits**
+- **Stanford's Center on Democracy, Development and the Rule of Law**
+- **MIT's Election Data + Science Lab** — Technical election security expertise.
+- **Protect Democracy** (not a university, but partners with them) — Already doing litigation and policy; could co-convene.
 
-Bring together, in the same room:
-- Local business owners and executives
-- Union leadership (both campus and community unions)
-- Faith leaders across denominations
-- State and local elected officials
-- Election administrators
-- Legal experts on constitutional crisis scenarios
+**For regional convenings:**
 
-The goal is not a single meeting but an ongoing structure: relationships built, communication channels established, and contingency plans developed. What happens if the election is contested? What does coordinated economic action look like in this region? Who commits to what, and under what conditions?
-
-**2. Tech leadership dialogues**
-
-Technology companies have enormous economic leverage but no coordination mechanism for democratic defense. Many tech leaders have expressed concern about authoritarianism — but concern without coordination is impotent.
-
-Universities have unique access: through computer science departments, business school advisory boards, research partnerships, and alumni networks. A university-hosted dialogue on "technology leadership and democratic resilience" could bring together people who would not otherwise be in the same room.
-
-The tech angle matters because:
-- Tech companies control communication infrastructure that democratic coordination depends on
-- Tech market caps represent significant economic leverage
-- Tech employment is concentrated in ways that could enable coordinated action
-- Many tech leaders want to act but lack a framework
-
-**3. Cross-institutional academic coordination**
-
-Universities should also coordinate with each other. The American Association of Universities (AAU), the Association of American Colleges and Universities (AAC&U), and discipline-specific organizations provide existing networks.
-
-The question to pose: What are universities collectively prepared to do if constitutional democracy is suspended? (See: [The Winter 2027 Commitment](winter-2027.md))
+State flagship universities are often better positioned than elite privates for regional coalition-building. A University of Michigan convening brings together Michigan business, labor, and election officials more naturally than a Harvard convening would.
 
 ---
 
-#### What Faculty Can Do Now
+#### What a Convening Looks Like
 
-If your university president will not convene, faculty can act:
+**Format options:**
 
-**Through faculty senates:** Pass resolutions calling on the administration to host regional democracy defense convenings. Make the case publicly that universities have a civic obligation to use their convening power.
+1. **Summit (1-2 days, 50-100 people).** Plenary sessions plus working groups. Aims to build relationships and frame shared commitments. Requires significant planning (3-6 months). Budget: $50K-150K depending on venue, travel support, and staffing.
 
-**Through departments and schools:** Law schools, business schools, and policy schools can host their own convenings without central administration approval. A "Democracy and Business" symposium at a business school brings executives onto campus. A "Constitutional Crisis Scenarios" workshop at a law school builds legal coordination.
+2. **Working session (half-day, 15-25 people).** Smaller, more targeted. Can be organized in weeks. Aims for specific outputs: a statement, a commitment framework, a next step. Budget: $5K-20K.
 
-**Through professional associations:** The AAUP, disciplinary associations, and learned societies can coordinate across institutions. A joint statement from the American Political Science Association, the American Bar Association, and the American Economic Association calling for university-hosted convenings would create pressure.
+3. **Scenario exercise (1 day, 20-40 people).** War-games a specific crisis scenario (e.g., "certification is refused in Pennsylvania — what do each of you do?"). Forces concrete thinking. Requires careful design. Budget: $20K-50K.
 
-**Through research:** Document what coordination mechanisms have worked historically. Model the economic impact of various collective action scenarios. Provide the intellectual infrastructure that convening requires.
+4. **Dinner series (ongoing, 10-15 people per dinner).** Lower stakes, relationship-building. Multiple dinners over months with overlapping but evolving guest lists. Budget: $2K-5K per dinner.
+
+The right format depends on the goal. Early-stage relationship building → dinners or small working sessions. Generating public commitments → summit. Testing coordination mechanisms → scenario exercise.
+
+**Who should be in the room:**
+
+A democracy defense convening needs people who can actually make commitments, not just discuss ideas. The mix should include:
+
+- **Election officials** — Secretaries of state, county election directors. They know the mechanics and the threats.
+- **Constitutional lawyers** — People who've thought through crisis scenarios and legal options.
+- **Business leaders** — Executives with authority to make commitments, not just corporate affairs staff. Focus on regional businesses with community ties, not just national brands.
+- **Labor leadership** — Union presidents or political directors who can speak to strike capacity.
+- **Tech executives** — For tech-focused convenings. CTOs, policy leads, or founders with decision-making authority.
+- **Organizers** — People with mobilization infrastructure (Indivisible leaders, faith coalition coordinators).
+- **A few academics** — To provide analysis, but the room should not be mostly academics.
+
+The hardest people to get are business executives and tech leaders. They're busy, risk-averse, and wary of being seen as political. This is where the connector role matters (see below).
+
+**Outputs to aim for:**
+
+A convening without outputs is just a conference. Aim for:
+
+1. **A statement or framework** — Something participants sign that articulates shared principles and potential commitments.
+2. **Specific commitments** — "If X happens, we will do Y." The more specific, the more valuable.
+3. **A coordination mechanism** — A Signal group, a designated convener, a schedule of follow-up calls. Relationships decay without maintenance.
+4. **A next step** — Another convening, a working group, a public event. Momentum matters.
 
 ---
 
-#### What Administrators Can Do Now
+#### Different Roles for Different People
 
-**Name the obligation.** University presidents should publicly articulate that democratic defense is part of the university's civic mission — not partisan politics, but defense of the constitutional order that makes academic freedom possible.
+Not everyone can or should host a summit. But many people can contribute:
 
-**Allocate resources.** Assign staff to organizing convenings. Provide space and logistical support. Fund travel for participants who need it. This is not expensive relative to university budgets, but it requires someone to prioritize it.
+**Hosts/conveners** — Institutions or individuals who organize the event, provide the venue, set the agenda. Requires: institutional position, staff support, convening credibility.
 
-**Use existing relationships.** Every university has corporate partners, donor networks, and community relationships. These relationships can be activated for democratic defense. A call from a university president to a CEO carries weight.
+**Funders** — People who provide money for venue, travel, staffing. A working session might need $10K; a summit might need $100K. Funders can shape the agenda but should let conveners run it.
 
-**Coordinate with peer institutions.** Don't act alone. Reach out to other presidents. Build the network of institutions willing to play the convening role. Collective action by universities models the collective action you are trying to enable.
+**Connectors** — People who bridge worlds that don't normally interact. A tech executive who knows democracy lawyers. An academic who knows union leadership. Connectors make introductions, vouch for people, and get reluctant participants to show up.
+
+**Participants** — People who attend, engage seriously, and make commitments. The most important role. Convenings fail when the room is full of people who can discuss but not decide.
+
+**Document authors** — People who write the framing documents that give convenings their agenda. This document, and the others in this series, aim to be that.
+
+If you're reading this, ask: which role can I play?
+
+- If you have institutional position and staff, consider hosting.
+- If you have money but not time, fund someone else's convening.
+- If you know people in different worlds, make introductions.
+- If you have decision-making authority in a business, union, or institution, attend and commit.
+- If you can write, help frame the questions.
+
+---
+
+#### A Realistic Roadmap
+
+**February–March 2026: Seed conversations**
+
+Small dinners and working sessions (10-20 people) at 2-3 institutions. Goals: test the conversation, identify who's willing to engage, surface the key questions. Likely hosts: Harvard Law, Stanford, Georgetown. Budget need: $30K-50K total.
+
+**April–May 2026: Regional convenings**
+
+Working sessions in 3-5 key states (Michigan, Pennsylvania, Wisconsin, Arizona, Georgia). Bring together state-level business, labor, election officials, and organizers. Goal: build state-level coordination infrastructure. Likely hosts: state flagship universities or law schools. Budget need: $20K-40K per state.
+
+**June 2026: National summit**
+
+Larger convening (75-100 people) that brings together regional leaders, national organizations, and tech/business leadership. Goal: public commitments, shared framework, coordination mechanism for election period. Likely host: Harvard, Stanford, or a consortium. Budget need: $100K-150K.
+
+**July–October 2026: Activation**
+
+Ongoing coordination calls. Scenario exercises. Preparation for election period. Regional networks stay in contact. National coordinating body monitors for trigger conditions.
+
+**November 2026 and beyond:** See [The Winter 2027 Commitment](winter-2027.md).
+
+---
+
+#### For Tech Leadership Specifically
+
+Tech companies have enormous economic leverage but no coordination mechanism for democratic defense. A tech-focused convening could be hosted by Stanford HAI, MIT, or a law school with tech connections.
+
+**Who should be in the room:**
+
+- CTOs or senior executives (not just policy staff) from major platforms
+- Founders of mid-size companies with more decision-making freedom
+- Tech investors who sit on multiple boards
+- A few constitutional lawyers and election security experts
+- Organizers who can speak to what coordination would enable
+
+**The ask:**
+
+What are tech companies prepared to do if the election is stolen? Options range from:
+
+- Public statements (low cost, low impact)
+- Platform policies (content moderation in crisis conditions)
+- Service decisions (would AWS host election-denying state governments?)
+- Employee mobilization (supporting employees who want to act)
+- Economic coordination (the hardest and most impactful)
+
+The goal is not to get commitments in the first meeting. The goal is to start the conversation, surface who's willing to engage, and build toward commitments over subsequent meetings.
+
+---
+
+#### What You Can Do This Week
+
+1. **If you're at a law school or policy school:** Talk to faculty about hosting a working session. A half-day session in April is achievable with 6-8 weeks of planning.
+
+2. **If you have funding capacity:** Identify a potential host institution and offer to fund a convening. $20K-50K unlocks a serious working session.
+
+3. **If you know people in different worlds:** Make two introductions this month. Connect a democracy lawyer to a tech executive. Connect a union leader to an academic.
+
+4. **If you're a business or tech leader:** Say yes when invited. The scarcest resource is executives willing to be in the room.
+
+5. **If you're a faculty member without institutional power:** Write. Circulate these documents. Raise the question in faculty meetings. Pressure creates permission for administrators to act.
 
 ---
 
@@ -86,8 +172,8 @@ If your university president will not convene, faculty can act:
 
 Universities are being [targeted by this administration](https://www.brookings.edu/articles/targeting-higher-education-is-an-essential-tool-in-the-autocratic-playbook/) precisely because they are bulwarks of democracy. The response cannot be to retreat into institutional self-protection. As [Michael Ignatieff observed](https://www.chronicle.com/article/how-a-university-fights-an-authoritarian-regime) from his experience leading Central European University under Orbán: early cooperation with authoritarian demands does not buy safety — it only delays and worsens the eventual confrontation.
 
-The same convening power that makes universities valuable to authoritarians who want to control them makes universities valuable to democratic defense. The question is whether university leaders will use that power, or whether they will wait until it is taken from them.
+The convening power that makes universities valuable to authoritarians who want to control them makes universities valuable to democratic defense. The question is whether university leaders will use that power before it is taken from them.
 
 ---
 
-*This document is part of [Poets, Nurses, and Programmers](index.md).*
+*This document is part of [Poets, Nurses, and Programmers](index.md). See also: [The Winter 2027 Commitment](winter-2027.md).*
