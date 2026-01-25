@@ -22,7 +22,13 @@ The analysis draws on:
 
 ## Contributing
 
-This is a living document. PRs are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+This is a living document. **PRs are needed** to:
+
+- **Improve suggestions for concrete action** — What specifically should people do? The more actionable, the better.
+- **Link to high-quality resources** — Organizations, research, tools, and guides that help people act.
+- **Create tasks for building organizational infrastructure** — How do we actually build the coalitions and commitments the document calls for?
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 

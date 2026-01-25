@@ -180,3 +180,9 @@ We are not alone. We have power, if we organize it. The question is whether we w
 - [Ragtag](https://ragtag.org)
 - [Higher Ground Labs](https://highergroundlabs.com)
 - **Election Protection Hotline:** 866-OUR-VOTE (866-687-8683)
+
+---
+
+#### Contribute to This Document
+
+This is a living document. If you can improve it — with better suggestions for concrete action, links to high-quality resources, or ideas for building organizational infrastructure — please contribute. [Pull requests welcome on GitHub](https://github.com/davidbau/poetsandnurses).
