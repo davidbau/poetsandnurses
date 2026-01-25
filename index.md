@@ -8,7 +8,7 @@
 
 #### I. The Outrage and Its Limits
 
-Renée Good was a thirty-seven-year-old American citizen, a poet and mother of three, driving in her Minneapolis neighborhood on January 7, 2026, when an ICE agent shot her dead. Less than three weeks later, on January 24, Alex Pretti, a thirty-seven-year-old ICU nurse at the VA hospital who had dedicated his life to caring for veterans, was pepper-sprayed, wrestled to the ground by six federal agents, and killed while holding his cell phone aloft. Video evidence contradicts every element of the Department of Homeland Security's account. These were American citizens, killed by American law enforcement officers, in an American city that had explicitly asked these officers to leave.
+Renée Good was a thirty-seven-year-old American citizen, a poet and mother of three, driving in her Minneapolis neighborhood on January 7, 2026, when an ICE agent shot her dead. Less than three weeks later, on January 24, Alex Pretti, also thirty-seven, an ICU nurse at the VA hospital who had dedicated his life to caring for veterans, was pepper-sprayed, wrestled to the ground by six federal agents, and killed while holding his cell phone aloft. Video evidence contradicts every element of the Department of Homeland Security's account. These were American citizens, killed by American law enforcement officers, in an American city that had explicitly asked these officers to leave.
 
 ![ICE agents approach Renée Good's vehicle, January 7, 2026](renee_good.jpg)
 
