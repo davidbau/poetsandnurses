@@ -44,6 +44,8 @@ In America, 3.5% means roughly 11 million people in sustained engagement. This i
 
 ---
 
+![Let My People Vote](let_my_people_vote.jpg)
+
 #### III. The 2026 Midterms: The Decisive Moment
 
 The 2026 midterm elections are the decisive moment for American democracy. Trump has identified them as such. At a House Republican retreat on January 6, 2026, he [warned](https://www.nbcnews.com/politics/2026-election/trump-predicts-impeachment-if-republicans-lose-2026-midterms-rcna252604): "You got to win the midterms, because if we don't win the midterms... they'll find a reason to impeach me. I'll get impeached." He understands that a hostile Congress would have subpoena power, the ability to investigate, and the capacity to restrain executive action.
@@ -58,8 +60,6 @@ And we should be clear-eyed about what comes after certification. The administra
 
 The dissolution of midterm results is the Rubicon we must not cross. If the administration successfully interferes with the election and faces no consequences, or if it loses but refuses to accept the results, the constitutional order is over. We will not vote our way out of what follows.
 
-![Let My People Vote](let_my_people_vote.jpg)
-
 Protection of the midterms must be our highest priority. Everything else, every other issue, is secondary to preserving the mechanism by which power can be transferred and accountability restored.
 
 ---
@@ -67,6 +67,8 @@ Protection of the midterms must be our highest priority. Everything else, every 
 #### IV. Three Points of Leverage
 
 Given this analysis, three sources of leverage emerge: not as protest tactics, but as strategic chokepoints where organized resistance can impose costs high enough to change calculations.
+
+![State governmental capacity, mass mobilization, and economic leverage](three_leverage_points.jpg)
 
 **1. State Governmental Capacity**
 
