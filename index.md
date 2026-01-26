@@ -28,7 +28,7 @@ The research on how authoritarian consolidation is prevented points to a differe
 
 #### II. How Autocracies Are Stopped
 
-Political scientist [Erica Chenoweth](https://www.ericachenoweth.com/), working with [Maria Stephan](https://en.wikipedia.org/wiki/Maria_Stephan), analyzed every major campaign for regime change from 1900 to 2006: 323 campaigns in total, both violent and nonviolent. Their findings, published in [*Why Civil Resistance Works*](https://www.jstor.org/stable/10.7312/chen15682), upend conventional assumptions about power.
+Political scientist [Erica Chenoweth](https://www.ericachenoweth.com/), working with [Maria Stephan](https://en.wikipedia.org/wiki/Maria_Stephan), analyzed every major campaign for regime change from 1900 to 2006: 323 campaigns in total, both violent and nonviolent. Their findings, published in [*Why Civil Resistance Works*](https://cup.columbia.edu/book/why-civil-resistance-works/9780231156837), upend conventional assumptions about power.
 
 ![Why Civil Resistance Works (Chenoweth & Stephan) and From Dictatorship to Democracy (Sharp)](images/resistance_books.jpg)
 
@@ -170,7 +170,7 @@ We are not alone. We have power, if we organize it. The question is whether we w
 
 **Research**
 
-- Chenoweth, E. & Stephan, M. (2011). [*Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict*](https://www.jstor.org/stable/10.7312/chen15682). Columbia University Press.
+- Chenoweth, E. & Stephan, M. (2011). [*Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict*](https://cup.columbia.edu/book/why-civil-resistance-works/9780231156837). Columbia University Press.
 - Chenoweth, E. (2020). ["Questions, Answers, and Some Cautionary Updates Regarding the 3.5% Rule."](https://www.hks.harvard.edu/centers/carr/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) Carr Center for Human Rights Policy, Harvard Kennedy School.
 - Sharp, G. (1973). *The Politics of Nonviolent Action*. Porter Sargent Publishers.
 - Sharp, G. (1993). [*From Dictatorship to Democracy*](https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/). Albert Einstein Institution. (Free PDF available)
