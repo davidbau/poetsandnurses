@@ -187,6 +187,7 @@ We are not alone. We have power, if we organize it. The question is whether we w
 - [Tech for Campaigns](https://www.techforcampaigns.org)
 - [Ragtag](https://ragtag.org)
 - [Higher Ground Labs](https://highergroundlabs.com)
+- [ICEout.tech](https://iceout.tech) — Tech worker declaration
 - **Election Protection Hotline:** 866-OUR-VOTE (866-687-8683)
 
 ---
