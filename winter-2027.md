@@ -14,7 +14,7 @@ If the administration successfully interferes with the election and faces no con
 
 #### The Problem
 
-The research on how authoritarian consolidation is stopped points to sustained mass mobilization. Political scientist [Erica Chenoweth](https://carrcenter.hks.harvard.edu/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) found that no government in her dataset withstood a sustained challenge from 3.5% of its population — roughly 11 million Americans. But this is not 11 million people attending a single march. It is 11 million people maintaining continuous, organized pressure over weeks and months.
+The research on how authoritarian consolidation is stopped points to sustained mass mobilization. Political scientist [Erica Chenoweth](https://www.hks.harvard.edu/centers/carr/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) found that no government in her dataset withstood a sustained challenge from 3.5% of its population — roughly 11 million Americans. But this is not 11 million people attending a single march. It is 11 million people maintaining continuous, organized pressure over weeks and months.
 
 Most Americans cannot do this. They have jobs they cannot leave, childcare they cannot abandon, rent they cannot miss. They cannot risk being fired or evicted. The Women's March in 2017 brought out 4 to 5 million on a single day, and then most went home. Weekend protests do not stop authoritarian consolidation.
 
