@@ -100,7 +100,7 @@ Coordination solves this problem. When businesses commit together, publicly, non
 
 Economic leverage is the least understood and potentially most powerful tool. If interference with elections triggers coordinated work stoppages across sectors, business closures at scale, consumer boycotts of companies that cooperate, capital flight and market disruption, and international economic consequences, then the administration faces a calculation: is holding power worth economic collapse?
 
-The "economic blackout" that preceded the January 23 march in Minneapolis, with businesses closing and workers staying home, was a demonstration of capacity. The same infrastructure that can affect a state economy for a day can affect the national economy for a week. The labor-business-faith coalition being built in Minnesota is nationally significant.
+The ["economic blackout"](https://www.mprnews.org/story/2026/01/23/the-history-and-meaning-behind-minnesotas-general-strike-and-economic-blackout) that preceded the January 23 march in Minneapolis, with businesses closing and workers staying home, was a demonstration of capacity. The same infrastructure that can affect a state economy for a day can affect the national economy for a week. The labor-business-faith coalition being built in Minnesota is nationally significant.
 
 But scaling this is the hardest problem. Individual businesses that act face retaliation. When one hotel tried to refuse ICE agents, corporate headquarters reversed the decision within hours. Hilton's stock dropped 2.5% after DHS posted about the alleged ban. The same prisoner's dilemma applies to every business: act alone, and you absorb all the cost while competitors take the business.
 
