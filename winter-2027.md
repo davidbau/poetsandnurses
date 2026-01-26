@@ -170,4 +170,10 @@ The question is whether university leaders have the courage to make it.
 
 ---
 
+#### Contribute
+
+This framework needs refinement. If you have expertise in constitutional law, crisis coordination, or university governance, your input would strengthen it. [Pull requests welcome on GitHub](https://github.com/davidbau/poetsandnurses).
+
+---
+
 *This document is part of [Poets, Nurses, and Programmers](index.md). See also: [The Convening Role of Universities](academics-convening.md).*

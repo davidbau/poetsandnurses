@@ -184,4 +184,10 @@ The convening power that makes universities valuable to authoritarians who want 
 
 ---
 
+#### Contribute
+
+This document needs to be more concrete and actionable. If you have specific suggestions for institutions that should convene, formats that work, or people who should be in the room, please contribute. [Pull requests welcome on GitHub](https://github.com/davidbau/poetsandnurses).
+
+---
+
 *This document is part of [Poets, Nurses, and Programmers](index.md). See also: [The Winter 2027 Commitment](winter-2027.md).*
