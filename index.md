@@ -128,7 +128,7 @@ The three leverage points require infrastructure to activate. This infrastructur
 
 [Indivisible](https://indivisible.org) has the largest distributed organizing infrastructure in the country: 2,500 local groups, 99% congressional district coverage, weekly coordination calls, rapid response capacity. Their [Guide](https://indivisible.org/resource/guide) provides tactical guidance for operating under authoritarian conditions. [Common Cause](https://commoncause.org) co-leads the Election Protection network. The **Election Protection Hotline** (866-OUR-VOTE) deploys thousands of trained volunteers.
 
-The ICE Watch networks emerging in Minneapolis and other cities represent something new: decentralized, neighborhood-based rapid response capacity. [States at the Core](https://statesatthecore.us) has been training thousands in community defense tactics. These networks need to be built in every city, and their organizers need to understand that the same infrastructure will be needed for election protection.
+The ICE Watch networks emerging in Minneapolis and other cities represent something new: decentralized, neighborhood-based rapid response capacity. [States at the Core](https://www.stacup.org) has been training thousands in community defense tactics. These networks need to be built in every city, and their organizers need to understand that the same infrastructure will be needed for election protection.
 
 **For Economic Leverage**
 
@@ -138,7 +138,7 @@ The hardest work is stitching these together: creating organizations where busin
 
 **For Technical Infrastructure**
 
-All three leverage points require technical capacity: secure communications, rapid coordination, voter protection tools, data analysis, disinformation monitoring. If you work in technology, your skills are desperately needed. [Tech for Campaigns](https://techforcampaigns.org) matches skilled volunteers with campaigns. [Ragtag](https://ragtag.org) connects technologists with progressive organizations. [Higher Ground Labs](https://highergroundlabs.com) coordinates investment in progressive tech infrastructure.
+All three leverage points require technical capacity: secure communications, rapid coordination, voter protection tools, data analysis, disinformation monitoring. If you work in technology, your skills are desperately needed. [Tech for Campaigns](https://www.techforcampaigns.org) matches skilled volunteers with campaigns. [Ragtag](https://ragtag.org) connects technologists with progressive organizations. [Higher Ground Labs](https://highergroundlabs.com) coordinates investment in progressive tech infrastructure.
 
 ---
 
@@ -146,7 +146,7 @@ All three leverage points require technical capacity: secure communications, rap
 
 Here is what you can do in the next nine months:
 
-**This week:** Identify which leverage point matches your position. If you have connections to state government, start there. If you're in a union or own a business, start building economic commitments. If neither, join a local Indivisible chapter or equivalent, or find your local ICE Watch network. If you have technical skills, sign up at techforcampaigns.org or ragtag.org. Call your senators about ICE funding, not because it will pass, but because it builds the habit and the record.
+**This week:** Identify which leverage point matches your position. If you have connections to state government, start there. If you're in a union or own a business, start building economic commitments. If neither, join a local Indivisible chapter or equivalent, or find your local ICE Watch network. If you have technical skills, sign up at www.techforcampaigns.org or ragtag.org. Call your senators about ICE funding, not because it will pass, but because it builds the habit and the record.
 
 **This month:** Attend a local meeting. Make a recurring donation to organizations building infrastructure. Identify three friends who are not yet engaged and bring them in. If you're in a union, raise the question of election-defense commitments. If you're a business owner, find others willing to make public commitments.
 
@@ -184,7 +184,7 @@ We are not alone. We have power, if we organize it. The question is whether we w
 - [Democracy Forward](https://democracyforward.org)
 - [Brennan Center for Justice](https://www.brennancenter.org)
 - [Common Cause Election Protection](https://www.commoncause.org/our-work/voting-and-elections/election-protection/)
-- [Tech for Campaigns](https://techforcampaigns.org)
+- [Tech for Campaigns](https://www.techforcampaigns.org)
 - [Ragtag](https://ragtag.org)
 - [Higher Ground Labs](https://highergroundlabs.com)
 - **Election Protection Hotline:** 866-OUR-VOTE (866-687-8683)
