@@ -8,7 +8,7 @@
 
 #### The Situation
 
-The 2026 midterm elections are the decisive moment for American democracy. A hostile Congress would have subpoena power, the ability to investigate, and the capacity to restrain executive action. The administration knows this. The [Brennan Center has documented](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) an unprecedented campaign to undermine the election: gutting election security infrastructure, installing election deniers in key positions, demanding voter data from states, and targeting mail-in voting. Election officials are already gaming out scenarios involving federal agents at polling places, emergency declarations, and post-election certification interference.
+The 2026 midterm elections are the decisive moment for American democracy. An opposition Congress would have subpoena power, the ability to investigate, and the capacity to restrain executive action. The administration knows this. The [Brennan Center has documented](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) an unprecedented campaign to undermine the election: gutting election security infrastructure, installing election deniers in key positions, demanding voter data from states, and targeting mail-in voting. Election officials are already gaming out scenarios involving federal agents at polling places, emergency declarations, and post-election certification interference.
 
 If the administration successfully interferes with the election and faces no consequences, or if it loses but refuses to accept the results, the constitutional order is over.
 
