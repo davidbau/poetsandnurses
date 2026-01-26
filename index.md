@@ -146,7 +146,7 @@ All three leverage points require technical capacity: secure communications, rap
 
 Here is what you can do in the next nine months:
 
-**This week:** Identify which leverage point matches your position. If you have connections to state government, start there. If you're in a union or own a business, start building economic commitments. If neither, join a local Indivisible chapter or equivalent, or find your local ICE Watch network. If you have technical skills, sign up at www.techforcampaigns.org or ragtag.org. Call your senators about ICE funding, not because it will pass, but because it builds the habit and the record.
+**This week:** Identify which leverage point matches your position. If you have connections to state government, start there. If you're in a union or own a business, start building economic commitments. If neither, join a local Indivisible chapter or equivalent, or find your local ICE Watch network. If you have technical skills, sign up at [Tech for Campaigns](https://www.techforcampaigns.org) or [Ragtag](https://ragtag.org). Call your senators about ICE funding, not because it will pass, but because it builds the habit and the record.
 
 **This month:** Attend a local meeting. Make a recurring donation to organizations building infrastructure. Identify three friends who are not yet engaged and bring them in. If you're in a union, raise the question of election-defense commitments. If you're a business owner, find others willing to make public commitments.
 
