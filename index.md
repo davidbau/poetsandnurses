@@ -10,9 +10,9 @@
 
 Renée Good was a thirty-seven-year-old American citizen, a poet and mother of three, driving in her Minneapolis neighborhood on January 7, 2026, when an ICE agent shot her dead. Less than three weeks later, on January 24, Alex Pretti, also thirty-seven, an ICU nurse at the VA hospital who had dedicated his life to caring for veterans, was pepper-sprayed, wrestled to the ground by six federal agents, and killed while holding his cell phone aloft. Video evidence contradicts every element of the Department of Homeland Security's account. These were American citizens, killed by American law enforcement officers, in an American city that had explicitly asked these officers to leave.
 
-![Left: ICE agents approach Renée Good's vehicle, January 7. Right: Federal agents restrain Alex Pretti, January 24.](images/minneapolis_killings.jpg)
-
 The outrage is real. Tens of thousands marched through Minneapolis in sub-zero temperatures the day before Pretti's death. Senators are demanding answers. Governor Walz has called the federal government's account ["nonsense... and lies"](https://www.npr.org/2026/01/25/nx-s1-5687361/minneapolis-shooting-latest-alex-pretti). The state has [filed lawsuits](https://www.minneapolismn.gov/news/2026/january/ag-lawsuit/) to halt the federal operation and to [preserve evidence](https://www.foxnews.com/politics/judge-blocks-trump-admin-destroying-altering-evidence-deadly-minneapolis-shooting) in the killings. But here is the truth we must confront: **outrage alone is not effective**. There is a gap, a vast and terrible gap, between what we feel and what we can achieve through normal political channels.
+
+![Left: ICE agents approach Renée Good's vehicle, January 7. Right: Federal agents restrain Alex Pretti, January 24.](images/minneapolis_killings.jpg)
 
 Consider the Senate Democrats who are voting against ICE funding this week. What leverage do they actually possess? To restrain ICE through appropriations, they must pass a budget. But passing a budget means providing the executive branch with funds to operate, including the very agencies they wish to restrain. And if they refuse to pass it? The government shuts down, but ICE continues anyway, drawing on $170 billion in pre-positioned funding that Republicans passed last year. As Senator Patty Murray [grimly noted](https://www.npr.org/2026/01/22/g-s1-106927/house-spending-homeland-immigration): "The suggestion that a shutdown in this moment might curb the lawlessness of this administration is not rooted in reality."
 
@@ -20,7 +20,9 @@ This is the paradox of democratic opposition to an autocratic executive: major l
 
 In a democracy, we expect to turn to the government to respond to our grievances. But the parts of government that respond to the people are being systematically dismantled. Military leadership has been purged of officers who might refuse illegal orders. Inspectors general across agencies have been fired. Whistleblower protections have been gutted. Government lawyers who raised legal objections have been removed. The president was impeached twice before and emerged unscathed. The Supreme Court has been remade in his image.
 
-Many people look at this situation and see no path forward. They assume that if Congress cannot restrain the executive, if courts are ignored, if norms no longer bind, then nothing can be done. This assumption is understandable but wrong. The research on how authoritarian consolidation is prevented, and how it is reversed, points to a different set of levers entirely.
+Many people look at this situation and see no path forward. They assume that if Congress cannot restrain the executive, if courts are ignored, if norms no longer bind, then nothing can be done. This assumption is understandable but wrong.
+
+The research on how authoritarian consolidation is prevented points to a different mechanism entirely: **defection**. Autocracies depend on thousands of people carrying out orders: bureaucrats, judges, prosecutors, military officers, police, business leaders. When enough of these people refuse to comply, the machinery of authoritarianism seizes. The goal of organized action is not to appeal to the conscience of the powerful. It is to raise the costs of compliance until defection becomes the rational choice.
 
 ---
 
@@ -60,13 +62,13 @@ And we should be clear-eyed about what comes after certification. The administra
 
 The dissolution of midterm results is the Rubicon we must not cross. If the administration successfully interferes with the election and faces no consequences, or if it loses but refuses to accept the results, the constitutional order is over. We will not vote our way out of what follows.
 
-Protection of the midterms must be our highest priority. Everything else, every other issue, is secondary to preserving the mechanism by which power can be transferred and accountability restored.
+Protection of the midterms must be our highest priority. Everything else, every other issue, is secondary to preserving the mechanism by which power can be transferred and accountability restored. And protecting the election creates the conditions for defection: officials who see a path to accountability are more likely to refuse illegal orders. Judges, prosecutors, and military officers who believe they may face consequences are more likely to say no.
 
 ---
 
 #### IV. Three Points of Leverage
 
-Given this analysis, three sources of leverage emerge: not as protest tactics, but as strategic chokepoints where organized action can impose costs high enough to change calculations.
+Given this analysis, three sources of leverage emerge. Each is a way to trigger the defections that stop autocracies. **State governmental capacity** means state officials refusing to cooperate with federal interference. **Mass mobilization** creates cover for those who want to defect but fear isolation. **Economic leverage** solves the coordination problem that prevents business defection.
 
 ![State governmental capacity, mass mobilization, and economic leverage](images/three_leverage_points.jpg)
 
@@ -90,6 +92,10 @@ The Minneapolis protests demonstrate both the potential and the seeds of somethi
 
 **3. Economic Leverage**
 
+Autocracy is not good for business in the long run. Russian oligarchs who thought they were partners with the regime have found themselves in prison. Property rights become arbitrary; contracts depend on political favor rather than law. American businesses have a shared interest in constitutional democracy. But they face a prisoner's dilemma: any single business that acts alone faces retaliation, so the rational choice is compliance, even though collective action would serve everyone's interest.
+
+Coordination solves this problem. When businesses commit together, publicly, none is exposed alone. This is why convening matters: it's not asking businesses to be heroic, it's helping them solve a collective action problem in their own interest.
+
 Economic leverage is the least understood and potentially most powerful tool. If interference with elections triggers coordinated work stoppages across sectors, business closures at scale, consumer boycotts of companies that cooperate, capital flight and market disruption, and international economic consequences, then the administration faces a calculation: is holding power worth economic collapse?
 
 The "economic blackout" that preceded the January 23 march in Minneapolis, with businesses closing and workers staying home, was a demonstration of capacity. The same infrastructure that can affect a state economy for a day can affect the national economy for a week. The labor-business-faith coalition being built in Minnesota is nationally significant.
@@ -110,7 +116,7 @@ If you're in academia, the stakes are equally high. [Universities are being targ
 
 ![Organizing: meetings, rallies, virtual coordination, canvassing](images/organizing_enhanced.jpg)
 
-The three leverage points require infrastructure to activate. Organizations exist that are building this infrastructure. Your task is to find them, join them, strengthen them.
+The three leverage points require infrastructure to activate. This infrastructure serves a specific purpose: it creates the conditions for defection. It provides cover for officials who want to refuse illegal orders. It coordinates businesses so none acts alone. It sustains pressure long enough to change calculations. Organizations exist that are building this infrastructure. Your task is to find them, join them, strengthen them.
 
 **For State Capacity**
 
@@ -150,7 +156,7 @@ Here is what you can do in the next nine months:
 
 The honest truth is that success is not guaranteed. The variables include: Will state officials actually hold, or will they capitulate under federal pressure? Will courts issue injunctions and will anyone enforce them? Will mass mobilization be sustained over weeks, or will it dissipate? Will strikes impose enough economic cost to matter? Will any Republican officials defect, or will party discipline hold? Will the military refuse illegal orders, or will it comply?
 
-None of these can be known in advance. But each of them is influenced by the infrastructure that exists. State officials are more likely to hold if they see others holding. Mobilization is more likely to be sustained if organizations exist to sustain it. Economic leverage is more likely to matter if commitments are made in advance, publicly, so that everyone knows what will happen.
+None of these can be known in advance. But each depends on defection, and defection depends on the infrastructure that exists. State officials are more likely to break from party pressure if they see others breaking. Mobilization is more likely to be sustained if organizations exist to sustain it. Economic leverage is more likely to matter if commitments are made in advance, publicly, so that everyone knows what will happen.
 
 The majority of Americans oppose what is happening. The question is whether that majority can be organized into collective action that creates political facts. That's not guaranteed. But it's possible. And the work of making it possible is the work that matters now.
 
