@@ -2,7 +2,7 @@
 
 **What We Must Build in the Next Nine Months**
 
-This document examines what research tells us about effective resistance to authoritarian consolidation, and develops a set of recommendations for what ordinary people, especially those in tech, academia, and other professional communities, can do to defend democracy before the 2026 midterm elections.
+This document examines what research tells us about effective response to authoritarian consolidation, and develops a set of recommendations for what ordinary people, especially those in tech, academia, and other professional communities, can do to defend democracy before the 2026 midterm elections.
 
 ## Read the Document
 

@@ -34,9 +34,9 @@ Nonviolent campaigns succeeded 53% of the time. Violent campaigns succeeded 26% 
 
 Why does nonviolent resistance work? The mechanism is **not moral appeal**. It is not that oppressors are shamed into relenting. The mechanism is *defection*. Autocracies depend on the compliance of bureaucrats, judges, prosecutors, military officers, business leaders, and local officials. When enough of these people refuse to carry out orders, or when the cost of their compliance becomes too high, the machinery seizes.
 
-This is the core insight of [Gene Sharp](https://en.wikipedia.org/wiki/Gene_Sharp), the political scientist who founded the [Albert Einstein Institution](https://www.aeinstein.org/) and spent six decades studying how dictatorships fall. Sharp's 1973 work *The Politics of Nonviolent Action* catalogued 198 methods of nonviolent resistance; his 1993 handbook [*From Dictatorship to Democracy*](https://www.aeinstein.org/free-resources/free-publications/english/) has been translated into more than 30 languages and used by resistance movements from Serbia to Egypt. The *New York Times* called him "the Clausewitz of nonviolent warfare." Sharp's research showed that power is not monolithic: every regime depends on the cooperation of thousands of people who can, under the right conditions, withdraw that cooperation.
+This is the core insight of [Gene Sharp](https://en.wikipedia.org/wiki/Gene_Sharp), the political scientist who founded the [Albert Einstein Institution](https://www.aeinstein.org/) and spent six decades studying how dictatorships fall. Sharp's 1973 work *The Politics of Nonviolent Action* catalogued 198 methods of nonviolent resistance; his 1993 handbook [*From Dictatorship to Democracy*](https://www.aeinstein.org/free-resources/free-publications/english/) has been translated into more than 30 languages and used by democracy movements from Serbia to Egypt. The *New York Times* called him "the Clausewitz of nonviolent warfare." Sharp's research showed that power is not monolithic: every regime depends on the cooperation of thousands of people who can, under the right conditions, withdraw that cooperation.
 
-Mass participation drives defection through several channels. It demonstrates that the regime lacks legitimacy. It creates cover for officials who want to resist but fear being isolated. It imposes economic costs that business elites cannot ignore. It makes every act of repression visible, raising the personal and professional costs of compliance. And it creates the political conditions for institutional actors to act.
+Mass participation drives defection through several channels. It demonstrates that the regime lacks legitimacy. It creates cover for officials who want to act but fear being isolated. It imposes economic costs that business elites cannot ignore. It makes every act of repression visible, raising the personal and professional costs of compliance. And it creates the political conditions for institutional actors to act.
 
 Chenoweth [cautions](https://carrcenter.hks.harvard.edu/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) that 3.5% is a rule of thumb, not an iron law, and that since 2010, both nonviolent and armed resistance have become less effective as authoritarian regimes learn from history and coordinate with one another. But the fundamental insight holds: what stops autocracies is not appeals to conscience or reliance on normal institutions. What stops them is organized collective action that imposes costs too high to bear.
 
@@ -66,17 +66,17 @@ Protection of the midterms must be our highest priority. Everything else, every 
 
 #### IV. Three Points of Leverage
 
-Given this analysis, three sources of leverage emerge: not as protest tactics, but as strategic chokepoints where organized resistance can impose costs high enough to change calculations.
+Given this analysis, three sources of leverage emerge: not as protest tactics, but as strategic chokepoints where organized action can impose costs high enough to change calculations.
 
 ![State governmental capacity, mass mobilization, and economic leverage](images/three_leverage_points.jpg)
 
 **1. State Governmental Capacity**
 
-States retain constitutional authority over elections. Governors command state law enforcement and National Guards. State attorneys general can litigate. Secretaries of state certify results. If state officials refuse to cooperate with federal interference in elections, and if that refusal is coordinated across states and backed by the credible threat of using state power to resist, the administration faces a choice: accept electoral defeat, or use military force against American states.
+States retain constitutional authority over elections. Governors command state law enforcement and National Guards. State attorneys general can litigate. Secretaries of state certify results. If state officials refuse to cooperate with federal interference in elections, and if that refusal is coordinated across states and backed by the credible threat of using state power to respond, the administration faces a choice: accept electoral defeat, or use military force against American states.
 
-This is not hypothetical. Governor Walz is currently in direct confrontation with the federal government over Minneapolis. The question is whether this confrontation can be sustained and expanded. The infrastructure needed includes: governors and secretaries of state who commit publicly to resisting federal interference; coordination mechanisms between states so resistance is not isolated; legal defense funds for officials who may face federal prosecution; litigation strategies prepared in advance; and state law enforcement prepared to enforce state authority.
+This is not hypothetical. Governor Walz is currently in direct confrontation with the federal government over Minneapolis. The question is whether this confrontation can be sustained and expanded. The infrastructure needed includes: governors and secretaries of state who commit publicly to opposing federal interference; coordination mechanisms between states so that opposition is not isolated; legal defense funds for officials who may face federal prosecution; litigation strategies prepared in advance; and state law enforcement prepared to enforce state authority.
 
-*What you can do:* Support secretaries of state and governors who will resist. This means both electoral support and public pressure to commit now. Build relationships between state officials across states. Contribute to legal defense funds. Pressure state attorneys general to prepare litigation. Know who your state election officials are and whether they will hold.
+*What you can do:* Support secretaries of state and governors who will hold. This means both electoral support and public pressure to commit now. Build relationships between state officials across states. Contribute to legal defense funds. Pressure state attorneys general to prepare litigation. Know who your state election officials are and whether they will hold.
 
 **2. Mass Mobilization Capacity**
 
@@ -94,7 +94,7 @@ Economic leverage is the least understood and potentially most powerful tool. If
 
 The "economic blackout" that preceded the January 23 march in Minneapolis, with businesses closing and workers staying home, was a demonstration of capacity. The same infrastructure that can affect a state economy for a day can affect the national economy for a week. The labor-business-faith coalition being built in Minnesota is nationally significant.
 
-But scaling this is the hardest problem. Individual businesses that resist face retaliation. When one hotel tried to refuse ICE agents, corporate headquarters reversed the decision within hours. Hilton's stock dropped 2.5% after DHS posted about the alleged ban. The same prisoner's dilemma applies to every business: act alone, and you absorb all the cost while competitors take the business.
+But scaling this is the hardest problem. Individual businesses that act face retaliation. When one hotel tried to refuse ICE agents, corporate headquarters reversed the decision within hours. Hilton's stock dropped 2.5% after DHS posted about the alleged ban. The same prisoner's dilemma applies to every business: act alone, and you absorb all the cost while competitors take the business.
 
 The solution requires building coalition infrastructure that can secure public, binding commitments from multiple actors simultaneously. If all the major hotel chains committed together, none would be isolated. If unions across sectors committed to strike together in defense of elections, the economic cost of interference becomes unacceptable. If business associations, not just individual businesses, made public commitments, members would have cover.
 
@@ -126,7 +126,7 @@ The ICE Watch networks emerging in Minneapolis and other cities represent someth
 
 This is the least developed infrastructure and the most needed. Union locals are the foundation. If you're a member, the work is internal organizing for explicit election-defense commitments. Business coalitions are emerging but informal. Faith communities have moral authority and economic reach. The Minnesota model, with its labor-business-faith coalition, needs to be replicated nationally.
 
-The hardest work is stitching these together: creating organizations where businesses, unions, and faith communities can make binding commitments to collective action. No single business can resist alone. But if the commitment is collective, public, and credible, it changes the calculation.
+The hardest work is stitching these together: creating organizations where businesses, unions, and faith communities can make binding commitments to collective action. No single business can act alone. But if the commitment is collective, public, and credible, it changes the calculation.
 
 **For Technical Infrastructure**
 
@@ -146,7 +146,7 @@ Here is what you can do in the next nine months:
 
 **By summer:** Be trained in election protection. Be part of poll worker recruitment in your area. Have relationships with people in each of the three leverage areas. Know the rapid response plan if results are contested.
 
-**By fall:** Have a specific role in the election. Know what you will do if interference occurs. Be prepared to sustain engagement through January. Have already made the commitments, to show up, to strike, to close, to resist, that create the costs that matter.
+**By fall:** Have a specific role in the election. Know what you will do if interference occurs. Be prepared to sustain engagement through January. Have already made the commitments, to show up, to strike, to close, to act, that create the costs that matter.
 
 The honest truth is that success is not guaranteed. The variables include: Will state officials actually hold, or will they capitulate under federal pressure? Will courts issue injunctions and will anyone enforce them? Will mass mobilization be sustained over weeks, or will it dissipate? Will strikes impose enough economic cost to matter? Will any Republican officials defect, or will party discipline hold? Will the military refuse illegal orders, or will it comply?
 
