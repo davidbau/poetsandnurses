@@ -34,7 +34,7 @@ Nonviolent campaigns succeeded 53% of the time. Violent campaigns succeeded 26% 
 
 Why does nonviolent resistance work? The mechanism is **not moral appeal**. It is not that oppressors are shamed into relenting. The mechanism is *defection*. Autocracies depend on the compliance of bureaucrats, judges, prosecutors, military officers, business leaders, and local officials. When enough of these people refuse to carry out orders, or when the cost of their compliance becomes too high, the machinery seizes.
 
-This is the core insight of [Gene Sharp](https://en.wikipedia.org/wiki/Gene_Sharp), the political scientist who founded the [Albert Einstein Institution](https://www.aeinstein.org/) and spent six decades studying how dictatorships fall. Sharp's 1973 work *The Politics of Nonviolent Action* catalogued 198 methods of nonviolent resistance; his 1993 handbook [*From Dictatorship to Democracy*](https://www.aeinstein.org/free-resources/free-publications/english/) has been translated into more than 30 languages and used by democracy movements from Serbia to Egypt. The *New York Times* called him "the Clausewitz of nonviolent warfare." Sharp's research showed that power is not monolithic: every regime depends on the cooperation of thousands of people who can, under the right conditions, withdraw that cooperation.
+This is the core insight of [Gene Sharp](https://en.wikipedia.org/wiki/Gene_Sharp), the political scientist who founded the [Albert Einstein Institution](https://www.aeinstein.org/) and spent six decades studying how dictatorships fall. Sharp's 1973 work *The Politics of Nonviolent Action* catalogued 198 methods of nonviolent resistance; his 1993 handbook [*From Dictatorship to Democracy*](https://www.aeinstein.org/s/FDTD-English.pdf) has been translated into more than 30 languages and used by democracy movements from Serbia to Egypt. The *New York Times* called him "the Clausewitz of nonviolent warfare." Sharp's research showed that power is not monolithic: every regime depends on the cooperation of thousands of people who can, under the right conditions, withdraw that cooperation.
 
 Mass participation drives defection through several channels. It demonstrates that the regime lacks legitimacy. It creates cover for officials who want to act but fear being isolated. It imposes economic costs that business elites cannot ignore. It makes every act of repression visible, raising the personal and professional costs of compliance. And it creates the political conditions for institutional actors to act.
 
@@ -120,7 +120,7 @@ The three leverage points require infrastructure to activate. Organizations exis
 
 [Indivisible](https://indivisible.org) has the largest distributed organizing infrastructure in the country: 2,500 local groups, 99% congressional district coverage, weekly coordination calls, rapid response capacity. Their [Guide](https://indivisible.org/resource/guide) provides tactical guidance for operating under authoritarian conditions. [Common Cause](https://commoncause.org) co-leads the Election Protection network. The **Election Protection Hotline** (866-OUR-VOTE) deploys thousands of trained volunteers.
 
-The ICE Watch networks emerging in Minneapolis and other cities represent something new: decentralized, neighborhood-based rapid response capacity. [States at the Core](https://statesatthecore.us) has been training thousands in community defense tactics. These networks need to be built in every city, and their organizers need to understand that the same infrastructure will be needed for election protection.
+The ICE Watch networks emerging in Minneapolis and other cities represent something new: decentralized, neighborhood-based rapid response capacity. [States at the Core](https://statesatthecore.substack.com/) has been training thousands in community defense tactics. These networks need to be built in every city, and their organizers need to understand that the same infrastructure will be needed for election protection.
 
 **For Economic Leverage**
 
@@ -130,7 +130,7 @@ The hardest work is stitching these together: creating organizations where busin
 
 **For Technical Infrastructure**
 
-All three leverage points require technical capacity: secure communications, rapid coordination, voter protection tools, data analysis, disinformation monitoring. If you work in technology, your skills are desperately needed. [Tech for Campaigns](https://techforcampaigns.org) matches skilled volunteers with campaigns. [Ragtag](https://ragtag.org) connects technologists with progressive organizations. [Higher Ground Labs](https://highergroundlabs.com) coordinates investment in progressive tech infrastructure.
+All three leverage points require technical capacity: secure communications, rapid coordination, voter protection tools, data analysis, disinformation monitoring. If you work in technology, your skills are desperately needed. [Tech for Campaigns](https://www.techforcampaigns.org/) matches skilled volunteers with campaigns. [Ragtag](https://ragtag.org) connects technologists with progressive organizations. [Higher Ground Labs](https://highergroundlabs.com) coordinates investment in progressive tech infrastructure.
 
 ---
 
@@ -138,7 +138,7 @@ All three leverage points require technical capacity: secure communications, rap
 
 Here is what you can do in the next nine months:
 
-**This week:** Identify which leverage point matches your position. If you have connections to state government, start there. If you're in a union or own a business, start building economic commitments. If neither, join a local Indivisible chapter or equivalent, or find your local ICE Watch network. If you have technical skills, sign up at techforcampaigns.org or ragtag.org. Call your senators about ICE funding, not because it will pass, but because it builds the habit and the record.
+**This week:** Identify which leverage point matches your position. If you have connections to state government, start there. If you're in a union or own a business, start building economic commitments. If neither, join a local Indivisible chapter or equivalent, or find your local ICE Watch network. If you have technical skills, sign up at [techforcampaigns.org](https://www.techforcampaigns.org/) or ragtag.org. Call your senators about ICE funding, not because it will pass, but because it builds the habit and the record.
 
 **This month:** Attend a local meeting. Make a recurring donation to organizations building infrastructure. Identify three friends who are not yet engaged and bring them in. If you're in a union, raise the question of election-defense commitments. If you're a business owner, find others willing to make public commitments.
 
@@ -165,7 +165,7 @@ We are not alone. We have power, if we organize it. The question is whether we w
 - Chenoweth, E. & Stephan, M. (2011). [*Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict*](https://www.jstor.org/stable/10.7312/chen15682). Columbia University Press.
 - Chenoweth, E. (2020). ["Questions, Answers, and Some Cautionary Updates Regarding the 3.5% Rule."](https://carrcenter.hks.harvard.edu/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule) Carr Center for Human Rights Policy, Harvard Kennedy School.
 - Sharp, G. (1973). *The Politics of Nonviolent Action*. Porter Sargent Publishers.
-- Sharp, G. (1993). [*From Dictatorship to Democracy*](https://www.aeinstein.org/free-resources/free-publications/english/). Albert Einstein Institution. (Free PDF available)
+- Sharp, G. (1993). [*From Dictatorship to Democracy*](https://www.aeinstein.org/s/FDTD-English.pdf). Albert Einstein Institution. (Free PDF available)
 - Brennan Center for Justice. (2026). ["The Trump Administration's Campaign to Undermine the Next Election."](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
 - Brennan Center for Justice. (2024). ["Project 2025 Would Fuel the Assault on Election Officials."](https://www.brennancenter.org/our-work/research-reports/project-2025-would-fuel-assault-election-officials)
 
@@ -176,7 +176,7 @@ We are not alone. We have power, if we organize it. The question is whether we w
 - [Democracy Forward](https://democracyforward.org)
 - [Brennan Center for Justice](https://www.brennancenter.org)
 - [Common Cause Election Protection](https://www.commoncause.org/our-work/voting-and-elections/election-protection/)
-- [Tech for Campaigns](https://techforcampaigns.org)
+- [Tech for Campaigns](https://www.techforcampaigns.org/)
 - [Ragtag](https://ragtag.org)
 - [Higher Ground Labs](https://highergroundlabs.com)
 - **Election Protection Hotline:** 866-OUR-VOTE (866-687-8683)
