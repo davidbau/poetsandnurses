@@ -6,6 +6,14 @@
 
 ---
 
+#### The Context
+
+Research on how authoritarian consolidation is stopped — from [Erica Chenoweth](https://www.ericachenoweth.com/)'s analysis of 323 regime-change campaigns to [Gene Sharp](https://www.aeinstein.org/)'s foundational work on nonviolent resistance — points to sustained mass mobilization as the key mechanism. Autocracies fall when enough people withdraw cooperation: when bureaucrats, judges, military officers, and business leaders refuse to comply. But mobilization alone is not enough. Economic leverage — the credible threat that interference with democracy will impose unacceptable costs on the economy — may be the most powerful and least developed tool available.
+
+The 2026 midterm elections are the decisive moment. The administration has [already begun](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) undermining election infrastructure. If the election is stolen and there are no consequences, constitutional democracy is over. The question is whether we can build the infrastructure to impose those consequences before November.
+
+---
+
 #### The Problem
 
 The main obstacle to economic leverage in defense of democracy is coordination. Individual businesses that resist federal overreach face retaliation; individual unions that strike alone absorb all the cost. The solution is collective commitment — but collective commitment requires someone to convene the conversation, build trust across sectors, and create the framework for binding agreements.
