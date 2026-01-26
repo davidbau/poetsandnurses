@@ -6,17 +6,17 @@
 
 ---
 
-#### The Context
+#### Economic Forces Can Protect Democracy
 
-Research on how authoritarian consolidation is stopped — from [Erica Chenoweth](https://www.ericachenoweth.com/)'s analysis of 323 regime-change campaigns to [Gene Sharp](https://www.aeinstein.org/)'s foundational work on nonviolent resistance — points to sustained mass mobilization as the key mechanism. Autocracies fall when enough people withdraw cooperation: when bureaucrats, judges, military officers, and business leaders refuse to comply. But mobilization alone is not enough. Economic leverage — the credible threat that interference with democracy will impose unacceptable costs on the economy — may be the most powerful and least developed tool available.
+The 2026 midterm elections are a decisive test for our constitutional democracy. The current administration has articulated its intentions to undermine the elections by [pre-positioning election deniers in key roles](https://www.propublica.org/article/heather-honey-dhs-election-security), [defunding election security infrastructure](https://www.democracydocket.com/news-alerts/cisa-puts-election-staff-on-administrative-leave/), and [preparing for military intervention into the voting process](https://www.mediamatters.org/steve-bannon/steve-bannon-says-ice-agents-will-be-near-polling-places-if-you-dont-have-id-if-youre). If the election is stolen and there are no consequences, constitutional democracy is over.
 
-The 2026 midterm elections are the decisive moment. The administration has [already begun](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) undermining election infrastructure. If the election is stolen and there are no consequences, constitutional democracy is over. The question is whether we can build the infrastructure to impose those consequences before November.
+Research on how authoritarian consolidation is stopped points to sustained mass mobilization as the key mechanism. [Erica Chenoweth](https://www.ericachenoweth.com/)'s analysis of 323 regime-change campaigns and [Gene Sharp](https://www.aeinstein.org/)'s foundational work on nonviolent resistance show that autocracies fall when enough people withdraw cooperation: when bureaucrats, judges, military officers, and business leaders refuse to comply. But mobilization alone is not enough. Economic leverage, the credible threat that interference with democracy will impose unacceptable costs on the economy, **may be the most powerful, yet least developed tool available**.
 
 ---
 
-#### The Problem
+#### The Coordination Problem
 
-The main obstacle to economic leverage in defense of democracy is coordination. Individual businesses that resist federal overreach face retaliation; individual unions that strike alone absorb all the cost. The solution is collective commitment — but collective commitment requires someone to convene the conversation, build trust across sectors, and create the framework for binding agreements.
+The main obstacle to economic leverage in defense of democracy is coordination. Individual businesses that resist federal overreach face retaliation; individual unions that strike alone absorb all the cost. The solution is collective commitment, but collective commitment requires someone to convene the conversation, build trust across sectors, and create the framework for binding agreements.
 
 Universities are uniquely positioned to play this role. They have legitimacy across political divides, existing convening infrastructure, intellectual resources, and relative insulation from retaliation. But "universities should convene" is not a plan. This document tries to be more specific: which institutions, what format, who should be in the room, what outputs to aim for, and what different people can do based on their position.
 
