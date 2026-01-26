@@ -132,7 +132,7 @@ The ICE Watch networks emerging in Minneapolis and other cities represent someth
 
 **For Economic Leverage**
 
-This is the least developed infrastructure and the most needed. Union locals are the foundation. If you're a member, the work is internal organizing for explicit election-defense commitments. Business coalitions are emerging but informal. Faith communities have moral authority and economic reach. The Minnesota model, with its labor-business-faith coalition, needs to be replicated nationally.
+This is the least developed infrastructure and the most needed. Union locals are the foundation. If you're a member, the work is internal organizing for explicit election-defense commitments. Business coalitions are emerging but informal. Faith communities have moral authority and economic reach. The [Minnesota model](https://en.wikipedia.org/wiki/2026_Minnesota_general_strike), with its labor-business-faith coalition, needs to be replicated nationally.
 
 The hardest work is stitching these together: creating organizations where businesses, unions, and faith communities can make binding commitments to collective action. No single business can act alone. But if the commitment is collective, public, and credible, it changes the calculation.
 
