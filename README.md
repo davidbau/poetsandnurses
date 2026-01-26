@@ -6,11 +6,11 @@ This document examines what research tells us about effective resistance to auth
 
 ## Read the Document
 
-**Main document:** [davidbau.github.io/poetsandnurses](https://davidbau.github.io/poetsandnurses/)
+**Main document:** [Poets, Nurses, and Programmers](index.md) (or [view on GitHub Pages](https://davidbau.github.io/poetsandnurses/))
 
 **Related documents:**
-- [The Convening Role of Universities](https://davidbau.github.io/poetsandnurses/academics-convening) — How academia can build the coalitions that economic leverage requires
-- [The Winter 2027 Commitment](https://davidbau.github.io/poetsandnurses/winter-2027) — A framework for academic collective action if elections are subverted
+- [The Convening Role of Universities](academics-convening.md) — How academia can build the coalitions that economic leverage requires
+- [The Winter 2027 Commitment](winter-2027.md) — A framework for academic collective action if elections are subverted
 
 ## Key Sources
 
