@@ -138,7 +138,7 @@ The hardest work is stitching these together: creating organizations where busin
 
 **For Technical Infrastructure**
 
-All three leverage points require technical capacity: secure communications, rapid coordination, voter protection tools, data analysis, disinformation monitoring. If you work in technology, your skills are desperately needed. [Tech for Campaigns](https://www.techforcampaigns.org) matches skilled volunteers with campaigns. [Ragtag](https://ragtag.org) connects technologists with progressive organizations. [Higher Ground Labs](https://highergroundlabs.com) coordinates investment in progressive tech infrastructure.
+All three leverage points require technical capacity: secure communications, rapid coordination, voter protection tools, data analysis, disinformation monitoring. If you work in technology, your skills are desperately needed. [Tech for Campaigns](https://www.techforcampaigns.org) matches skilled volunteers with campaigns. [Ragtag](https://ragtag.org) connects technologists with progressive organizations. [Higher Ground Labs](https://highergroundlabs.com) coordinates investment in progressive tech infrastructure. And if you want to add your voice to those pressuring tech leadership to act, sign the [ICEout.tech](https://iceout.tech) declaration.
 
 ---
 
