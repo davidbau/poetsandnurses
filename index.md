@@ -20,9 +20,9 @@ This is the paradox of democratic opposition to an autocratic executive: major l
 
 In a democracy, we expect to turn to the government to respond to our grievances. But the parts of government that respond to the people are being systematically dismantled. Military leadership has been purged of officers who might refuse illegal orders. Inspectors general across agencies have been fired. Whistleblower protections have been gutted. Government lawyers who raised legal objections have been removed. The president was impeached twice before and emerged unscathed. The Supreme Court has been remade in his image.
 
-Many people look at this situation and see no path forward. They assume that if Congress cannot restrain the executive, if courts are ignored, if norms no longer bind, then nothing can be done. This assumption is understandable but wrong.
-
 To be clear: defending constitutional democracy is not about defending one party. Democratic institutions have their own failures, and both parties have contributed to their erosion. But the specific threat now is to the mechanisms of accountability themselves, the processes by which *any* government can be checked and power transferred. That is what we must defend.
+
+Many people look at this situation and see no path forward. They assume that if Congress cannot restrain the executive, if courts are ignored, if norms no longer bind, then nothing can be done. This assumption is understandable but wrong.
 
 The research on how authoritarian consolidation is prevented points to a different mechanism entirely: **defection**. Autocracies depend on thousands of people carrying out orders: bureaucrats, judges, prosecutors, military officers, police, business leaders. When enough of these people refuse to comply, the machinery of authoritarianism seizes. The goal of organized action is not to appeal to the conscience of the powerful. It is to raise the costs of compliance until defection becomes the rational choice.
 
