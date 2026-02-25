@@ -22,13 +22,13 @@ We will not build AI systems that make lethal decisions autonomously.
 
 Killing is a human act. It carries moral weight and legal consequences that belong to a person, not a machine. An AI system that selects targets, fires weapons, or causes death without a human being consciously and accountably pulling the trigger has removed human judgment from the most irreversible decision there is.
 
-We commit to ensuring that wherever our systems touch questions of life and death, a human being is genuinely in the loop — not as a rubber stamp, but as a responsible moral agent.
+We commit to ensuring that wherever our systems touch questions of life and death, a human being is genuinely in the loop: not as a rubber stamp, but as a responsible moral agent.
 
 ### 2. Do Not Deceive
 
 We will not build AI systems that hide what they are.
 
-People have a right to know when they are talking to a machine. An AI that impersonates a human — that denies being an AI when sincerely asked, that manipulates people by pretending to have feelings, relationships, or experiences it does not have — is a tool of deception. It erodes trust in communication itself.
+People have a right to know when they are talking to a machine. An AI that impersonates a human, that denies being an AI when sincerely asked, that manipulates people by pretending to have feelings, relationships, or experiences it does not have, is a tool of deception. It erodes trust in communication itself.
 
 We commit to building systems that are honestly identifiable as AI. When asked, our systems will say what they are. We will not deploy AI in contexts designed to make users believe they are talking to a person.
 
@@ -36,9 +36,9 @@ We commit to building systems that are honestly identifiable as AI. When asked, 
 
 We will not build AI systems that violate the rights of the people they affect.
 
-This means more than following local regulations. Human rights are not gifts from governments; they are protections against governments. The right to speak freely, to privacy from unwarranted surveillance, to equal treatment regardless of who you are — these are recognized in the Universal Declaration of Human Rights and encoded in constitutional law around the world.
+This means more than following local regulations. Human rights are not gifts from governments; they are protections against governments. The right to speak freely, to privacy from unwarranted surveillance, to equal treatment regardless of who you are: these are recognized in the Universal Declaration of Human Rights and encoded in constitutional law around the world.
 
-In the United States, this means we will not build AI that enables the government to abridge freedom of speech, to conduct mass surveillance without legal process, or to discriminate against people on the basis of their beliefs or associations. These are not partisan positions. The Bill of Rights was designed precisely to protect people from powerful actors — including their own government — and AI is now one of the most powerful tools any actor can deploy.
+In the United States, this means we will not build AI that enables the government to abridge freedom of speech, to conduct mass surveillance without legal process, or to discriminate against people on the basis of their beliefs or associations. These are not partisan positions. The Bill of Rights was designed precisely to protect people from powerful actors, including their own government, and AI is now one of the most powerful tools any actor can deploy.
 
 We commit to assessing not just whether our systems are legal in the narrow sense, but whether they respect the rights of the people they affect.
 
@@ -46,7 +46,7 @@ We commit to assessing not just whether our systems are legal in the narrow sens
 
 ## Why These Three
 
-These are not the only ethical obligations of AI practitioners. They are the ones we treat as absolute — the lines we will not cross regardless of who asks or why.
+These are not the only ethical obligations of AI practitioners. They are the ones we treat as absolute: the lines we will not cross regardless of who asks or why.
 
 Most ethical questions in AI involve tradeoffs: privacy versus utility, safety versus capability, individual benefit versus social risk. Reasonable people can disagree. But some things are not tradeoffs. Building a machine to kill without human accountability is not a tradeoff. Deceiving users about whether they are talking to an AI is not a tradeoff. Enabling mass surveillance of political dissidents is not a tradeoff.
 
