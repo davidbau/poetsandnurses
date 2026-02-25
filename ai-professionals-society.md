@@ -36,7 +36,7 @@ We commit to assessing not just whether our systems are legal in the narrow sens
 
 ---
 
-## Why These Three
+## Why These Two
 
 These are not the only ethical obligations of AI practitioners. They are the ones we treat as absolute: the lines we will not cross regardless of who asks or why.
 
