@@ -6,7 +6,7 @@
 
 Doctors swear an oath: *first, do no harm.* It is a simple promise, but it defines what medicine is. It means that no matter who is paying, no matter what is asked, there are things a doctor will not do.
 
-People who build AI systems need a similar commitment. AI is now powerful enough to kill, to deceive, and to be turned against the people it was supposed to serve. The individuals who build these systems face enormous pressure from employers, governments, and clients. Without a shared standard, something they can point to and say *this is what our profession does not do*, each person faces that pressure alone.
+People who build AI systems need a similar commitment. AI is now powerful enough to kill and to be turned against the people it was supposed to serve. The individuals who build these systems face enormous pressure from employers, governments, and clients. Without a shared standard, something they can point to and say *this is what our profession does not do*, each person faces that pressure alone.
 
 The Society of AI Professionals exists to make that standard explicit, shared, and publicly accountable.
 
@@ -14,7 +14,7 @@ The Society of AI Professionals exists to make that standard explicit, shared, a
 
 ## The Pledge
 
-Members of the Society of AI Professionals make three commitments:
+Members of the Society of AI Professionals make two commitments:
 
 ### 1. Do Not Kill
 
@@ -24,15 +24,7 @@ Killing is a human act. It carries moral weight and legal consequences that belo
 
 We commit to ensuring that wherever our systems touch questions of life and death, a human being is genuinely in the loop: not as a rubber stamp, but as a responsible moral agent.
 
-### 2. Do Not Deceive
-
-We will not build AI systems that hide what they are.
-
-People have a right to know when they are talking to a machine. An AI that impersonates a human, that denies being an AI when sincerely asked, that manipulates people by pretending to have feelings, relationships, or experiences it does not have, is a tool of deception. It erodes trust in communication itself.
-
-We commit to building systems that are honestly identifiable as AI. When asked, our systems will say what they are. We will not deploy AI in contexts designed to make users believe they are talking to a person.
-
-### 3. Do Not Break the Law
+### 2. Do Not Break the Law
 
 We will not build AI systems that violate the rights of the people they affect.
 
@@ -48,9 +40,9 @@ We commit to assessing not just whether our systems are legal in the narrow sens
 
 These are not the only ethical obligations of AI practitioners. They are the ones we treat as absolute: the lines we will not cross regardless of who asks or why.
 
-Most ethical questions in AI involve tradeoffs: privacy versus utility, safety versus capability, individual benefit versus social risk. Reasonable people can disagree. But some things are not tradeoffs. Building a machine to kill without human accountability is not a tradeoff. Deceiving users about whether they are talking to an AI is not a tradeoff. Enabling mass surveillance of political dissidents is not a tradeoff.
+Most ethical questions in AI involve tradeoffs: privacy versus utility, safety versus capability, individual benefit versus social risk. Reasonable people can disagree. But some things are not tradeoffs. Building a machine to kill without human accountability is not a tradeoff. Enabling mass surveillance of political dissidents is not a tradeoff.
 
-These three commitments define the floor. They are the minimum that membership in this profession requires.
+These two commitments define the floor. They are the minimum that membership in this profession requires.
 
 ---
 
