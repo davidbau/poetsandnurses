@@ -83,8 +83,3 @@ Membership is a commitment, not just an affiliation. Members are listed in a pub
 <iframe data-tally-src="https://tally.so/embed/XxeL94?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="861" frameborder="0" marginheight="0" marginwidth="0" title="Society for AI Safety Member Pledge"></iframe>
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
-This proposal is part of [Poets, Nurses, and Programmers](index.md). Pull requests welcome on [GitHub](https://github.com/davidbau/poetsandnurses).
-
----
-
-*"The degree of liberty or tyranny in any government is in large degree a reflection of the relative determination of the subjects to be free and their willingness and ability to resist efforts to enslave them." — Gene Sharp*
