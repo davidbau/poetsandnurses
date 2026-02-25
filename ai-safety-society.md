@@ -64,18 +64,6 @@ It is especially for people who are being asked to do something that troubles th
 
 ## Sign the Pledge
 
-By signing the Member Pledge, I commit to designing, developing, and deploying AI in conformance with the following foundational ethical principles. Specifically:
-
-**I. Do Not Kill.** I will not build AI systems that make lethal decisions autonomously. Wherever the systems touch questions of life and death, a human must be genuinely in the loop and accountable.
-
-**II. Do Not Deceive.** I will not build AI systems that hide what they are. When sincerely asked, the systems will identify themselves as AI. I will not deploy AI in contexts designed to make users falsely believe they are interacting with a person.
-
-**III. Do Not Break the Law.** I will not build AI systems that violate the rights of the people they affect: including the right to free expression, freedom from unwarranted surveillance, and equal treatment regardless of beliefs or associations.
-
----
-
-## Joining
-
 If you build AI and are willing to make these commitments publicly, we invite you to join.
 
 Membership is a commitment, not just an affiliation. Members are listed in a public directory. They may use the designation MSAIS to signal their commitment to professional standards. And they join a community of practitioners who take seriously the question of what it means to build AI responsibly.
