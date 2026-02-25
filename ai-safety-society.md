@@ -6,7 +6,7 @@
 
 Doctors swear an oath: *first, do no harm.* It is a simple promise, but it defines what medicine is. It means that no matter who is paying, no matter what is asked, there are things a doctor will not do.
 
-People who build AI systems need a similar commitment. AI is now powerful enough to kill, to deceive, and to be turned against the people it was supposed to serve. The individuals who build these systems face enormous pressure from employers, governments, and clients. Without a shared standard — something they can point to and say *this is what our profession does not do* — each person faces that pressure alone.
+People who build AI systems need a similar commitment. AI is now powerful enough to kill, to deceive, and to be turned against the people it was supposed to serve. The individuals who build these systems face enormous pressure from employers, governments, and clients. Without a shared standard, something they can point to and say *this is what our profession does not do*, each person faces that pressure alone.
 
 The Society for AI Safety exists to make that standard explicit, shared, and publicly accountable.
 
