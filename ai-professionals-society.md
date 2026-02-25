@@ -1,4 +1,4 @@
-# The Society for AI Safety
+# The Society of AI Professionals
 
 *A Pledge for People Who Build AI*
 
@@ -8,13 +8,13 @@ Doctors swear an oath: *first, do no harm.* It is a simple promise, but it defin
 
 People who build AI systems need a similar commitment. AI is now powerful enough to kill, to deceive, and to be turned against the people it was supposed to serve. The individuals who build these systems face enormous pressure from employers, governments, and clients. Without a shared standard, something they can point to and say *this is what our profession does not do*, each person faces that pressure alone.
 
-The Society for AI Safety exists to make that standard explicit, shared, and publicly accountable.
+The Society of AI Professionals exists to make that standard explicit, shared, and publicly accountable.
 
 ---
 
 ## The Pledge
 
-Members of the Society for AI Safety make three commitments:
+Members of the Society of AI Professionals make three commitments:
 
 ### 1. Do Not Kill
 
@@ -66,8 +66,8 @@ It is especially for people who are being asked to do something that troubles th
 
 If you build AI and are willing to make these commitments publicly, we invite you to join.
 
-Membership is a commitment, not just an affiliation. Members are listed in a public directory. They may use the designation MSAIS to signal their commitment to professional standards. And they join a community of practitioners who take seriously the question of what it means to build AI responsibly.
+Membership is a commitment, not just an affiliation. Members are listed in a public directory. They may use the designation MSAIP to signal their commitment to professional standards. And they join a community of practitioners who take seriously the question of what it means to build AI responsibly.
 
-<iframe data-tally-src="https://tally.so/embed/XxeL94?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="861" frameborder="0" marginheight="0" marginwidth="0" title="Society for AI Safety Member Pledge"></iframe>
+<iframe data-tally-src="https://tally.so/embed/XxeL94?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="861" frameborder="0" marginheight="0" marginwidth="0" title="Society of AI Professionals Member Pledge"></iframe>
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
